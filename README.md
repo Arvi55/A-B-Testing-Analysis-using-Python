@@ -52,18 +52,20 @@ This A/B Testing analysis compares two digital marketing campaigns: **Control Ca
 - **Test Campaign** had **higher conversion efficiency**, suggesting better targeting and higher user intent — but it also had a **higher cost per purchase**, limiting its scalability.
 - **Control Campaign** drove **more total engagement and purchases**, making it ideal for **mass outreach** and **multi-product promotions**.
 
-### 📈 Key Metrics Comparison
 
-| **Metric**                     | **Control Campaign** | **Test Campaign** |
-|-------------------------------|----------------------|-------------------|
-| Impressions                   | 100,000              | 100,000           |
-| Click-Through Rate (CTR)      | 3.2%                 | 4.1%              |
-| Product Views                 | 42,000               | 30,500            |
-| Add-to-Cart Actions           | 39,000               | 26,446            |
-| Purchase Conversion Rate      | 1.5%                 | 2.2%              |
-| Total Purchases               | 585                  | 582               |
-| Cost Per Purchase             | ₹85                  | ₹112              |
-| Return on Ad Spend (ROAS)     | 2.8x                 | 3.4x              |
+| **Metric**                    | **Control Campaign**                                                 | **Test Campaign**                                                  |
+|------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Impressions**              | 60%+ samples had >100K impressions                                   | 75% samples had <100K impressions                                   |
+| **Amount Spent**             | Broader range, including low spend with high returns                 | Clustered ₹2K–₹3K range, but low impressions                        |
+| **Searches**                 | ~105,000+                                                            | ~110,000+                                                           |
+| **Website Clicks**           | 159,624                                                              | 180,970                                                             |
+| **Content Views**            | 58,313                                                               | 55,740                                                              |
+| **Added to Cart**            | 39,000                                                               | 26,446                                                              |
+| **Purchases**                | 15,683                                                               | 15,637                                                              |
+| **Cart to Purchase Ratio**   | Flatter trendline; lower conversion efficiency                       | Steeper trendline; higher conversion efficiency                     |
+| **Clicks per Content View**  | 123.7%                                                               | 117.3%                                                              |
+| **Content to Cart Conversion** | Higher adds to cart despite similar content views                   | Lower adds to cart despite similar content views                   |
+
 
 > 💡 **Insight:** Use the Control Campaign for broad engagement and awareness. Use the Test Campaign for precise retargeting and conversion.
 
@@ -176,32 +178,33 @@ This A/B Testing analysis compares two digital marketing campaigns: **Control Ca
 
 ### 📌 Key Results
 
-1. **Higher Engagement from Control Campaign**
-   - Drove **39,000** add-to-carts vs. **26,446** in Test.
-   - Achieved more **product views** and **total purchases**.
-   - Lower **Cost per Purchase**: ₹85 (vs. ₹112 in Test).
+**Higher Engagement from Control Campaign**  
+- Drove **39,000 add-to-carts** vs. **26,446** in Test  
+- Achieved **more product views** and **total purchases** (15,683 vs. 15,637)  
+- **Lower Cost per Purchase**: ₹204 (vs. ₹217 in Test)  
+- **Higher Net Revenue**: ₹3,040,000 (vs. ₹2,854,800 in Test)
 
-2. **Better Conversion Efficiency in Test Campaign**
-   - Higher **cart-to-purchase rate**: 2.2% (vs. 1.5% in Control).
-   - Stronger Return on Ad Spend (**ROAS**): **3.4x** (vs. 2.8x in Control).
+**Better Conversion Efficiency in Test Campaign**  
+- Higher **cart-to-purchase ratio** (steeper trendline observed)  
+- **Higher Website Clicks**: 180,970 (vs. 159,624 in Control)  
+- Slightly better **click-through volume**, despite fewer impressions  
+- Test campaign showed **stronger per-cart conversion performance**
 
 ---
 
 ### 🔧 Strategic Recommendations
 
-3. **Segment Campaigns by Funnel Stage**
-   - Use **Control** for upper-funnel: awareness & reach.
-   - Use **Test** for lower-funnel: conversions & retargeting.
+**Segment Campaigns by Funnel Stage**  
+- Use **Control Campaign** for **upper-funnel**: awareness, broader reach  
+- Use **Test Campaign** for **lower-funnel**: conversions, retargeting
 
-4. **Align Budget with Campaign Strength**
-   - Spend more on **Control** for mass visibility.
-   - Use **Test** for high-intent users and cost-effective conversions.
+**Align Budget with Campaign Strength**  
+- Allocate more spend to **Control** for visibility and traffic  
+- Use **Test** strategically for **ROI-driven pushes** and **conversion-heavy goals**
 
-5. **Use Test Campaign for Targeted Promotions**
-   - Ideal for specific products, retargeting, and ROI-driven pushes.
-   - Leverage strong ROAS (3.4x) for budget-sensitive goals.
-
-
+**Use Test Campaign for Targeted Promotions**  
+- Ideal for **specific product focus**, retargeting, and **budget optimization**  
+- Leverage consistent **purchase efficiency and conversion funnel** for refined targeting
 
 
 # Assumptions Made During the Project
