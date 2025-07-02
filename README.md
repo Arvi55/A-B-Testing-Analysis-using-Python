@@ -182,7 +182,7 @@ This A/B Testing analysis compares two digital marketing campaigns: **Control Ca
 - Drove **39,000 add-to-carts** vs. **26,446** in Test  
 - Achieved **more product views** and **total purchases** (15,683 vs. 15,637)  
 - **Lower Cost per Purchase**: ₹204 (vs. ₹217 in Test)  
-- **Higher Net Revenue**: ₹3,040,000 (vs. ₹2,854,800 in Test)
+
 
 **Better Conversion Efficiency in Test Campaign**  
 - Higher **cart-to-purchase ratio** (steeper trendline observed)  
